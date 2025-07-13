@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Dandy (Dandave Udoka)
 
-💻 I'm a Full Stack Web Developer skilled in **React**, **Node.js**, **JavaScript**, and **Tailwind CSS**.
+## 💻 I'm a Full Stack Web Developer skilled in **React**, **Node.js**, **JavaScript**, and **Tailwind CSS**.
 
 🚀 Check out my portfolio 👉 [Visit My Portfolio](https://dandys-portfolio.vercel.app)
 
