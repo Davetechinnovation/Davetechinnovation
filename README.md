@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=4A90D9&center=true&vCenter=true&width=700&lines=Building+full-stack+products;Shipping+features+that+matter;Crafting+seamless+user+experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=4A90D9&center=true&vCenter=true&width=700&lines=Building+full-stack+products;Shipping+fast%2C+scaling+smart;Writing+code+that+matters" />
 
 <br/>
 
@@ -33,7 +33,7 @@ const dandy = {
 };
 ```
 
-I build products end-to-end — frontend, backend, mobile, and deployment. Three years in, I've shipped streaming platforms, crypto wallets, transport systems, and automation tools. I care about clean code, great UX, and shipping fast.
+I build products end-to-end — frontend, backend, mobile, and deployment. Three years in, I've shipped streaming platforms, crypto wallets, transport systems, and automation tools. I care about clean code, performance, and delivering real value.
 
 ---
 
@@ -47,7 +47,7 @@ I build products end-to-end — frontend, backend, mobile, and deployment. Three
 
 </div>
 
-A full-featured streaming platform built from scratch — movies, series, Live TV, K-Dramas, Sports, and Nollywood. Multi-category, multi-source content with a clean UI, search, watchlist, and settings to personalize your experience.
+A full-featured streaming platform built from scratch — movies, series, Live TV, K-Dramas, Sports, and Nollywood. Multi-category, multi-source content with a clean UI, search, watchlist, and settings.
 
 | Feature | Details |
 |--------|---------|
@@ -133,7 +133,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 <div align="center">
 
-![snake gif](https://github.com/Davetechinnovation/Davetechinnovation/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Davetechinnovation/Davetechinnovation/output/github-contribution-grid-snake.svg)
 
 </div>
 
