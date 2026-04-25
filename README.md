@@ -133,7 +133,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davetechinnovation&hide=stars&show=reviews,discussions_started,discussions_answered&theme=tokyonight&hide_border=true&bg_color=1A1A2E&text_color=ffffff&title_color=4A90D9" alt="Snake animation" width="100%" />
+![snake gif](https://github.com/Davetechinnovation/Davetechinnovation/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
