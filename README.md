@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:4A90D9,100:1A1A2E&height=200&section=header&text=Udoka%20Dandave%20%E2%80%94%20Dandy&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:4A90D9,100:1A1A2E&height=200&section=header&text=Udoka%20Dandave%20%E2%80%94%20Dandy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=4A90D9&center=true&vCenter=true&width=700&lines=Building+full-stack+products;Shipping+features+users+love;3%2B+years+of+web+and+mobile+dev" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=4A90D9&center=true&vCenter=true&width=700&lines=Building+full-stack+products;Shipping+features+that+matter;Crafting+seamless+user+experiences" />
 
 <br/>
 
@@ -33,7 +33,7 @@ const dandy = {
 };
 ```
 
-I build products end-to-end — frontend, backend, mobile, and deployment. Three years in, I've shipped streaming platforms, crypto wallets, transport systems, and automation tools. I care about clean, scalable code and user experience that works.
+I build products end-to-end — frontend, backend, mobile, and deployment. Three years in, I've shipped streaming platforms, crypto wallets, transport systems, and automation tools. I care about clean code, great UX, and shipping fast.
 
 ---
 
@@ -47,7 +47,7 @@ I build products end-to-end — frontend, backend, mobile, and deployment. Three
 
 </div>
 
-A full-featured streaming platform built from scratch — movies, series, Live TV, K-Dramas, Sports, and Nollywood. Multi-category, multi-source content with a clean UI, search, watchlist, and settings.
+A full-featured streaming platform built from scratch — movies, series, Live TV, K-Dramas, Sports, and Nollywood. Multi-category, multi-source content with a clean UI, search, watchlist, and settings to personalize your experience.
 
 | Feature | Details |
 |--------|---------|
@@ -133,7 +133,11 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Davetechinnovation/Davetechinnovation/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/examples/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/examples/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/examples/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
