@@ -6,12 +6,12 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-dandys--portfolio.vercel.app-1A1A2E?style=for-the-badge&logoColor=white)](https://dandys-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-dandys--portfolio.vercel.app-1A1A2E?style=for-the-badge&amp;logoColor=white)](https://dandys-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-davetechinnovation%40gmail.com-1A1A2E?style=for-the-badge)](mailto:davetechinnovation@gmail.com)
 [![Twitter/X](https://img.shields.io/badge/%F0%9F%90%A6_X-@Davetechinnov-1A1A2E?style=for-the-badge)](https://x.com/Davetechinnov)
 [![Instagram](https://img.shields.io/badge/%F0%9F%93%B8_Instagram-@davetech__innovation-1A1A2E?style=for-the-badge)](https://www.instagram.com/davetech_innovation/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Davetechinnovation&color=4A90D9&style=flat-square&label=Profile+Views+since+2024)
+![Profile Views](https://komarev.com/ghpvc/?username=Davetechinnovation&amp;color=4A90D9&amp;style=flat-square&amp;label=Profile+Views+since+2024)
 ![](https://img.shields.io/badge/Total%20Views-2.4K%2B-4A90D9?style=flat-square)
 
 </div>
@@ -43,7 +43,7 @@ I build products end-to-end — frontend, backend, mobile, and deployment. Three
 
 ### 🎬 DandyPrime — Stream Effortlessly
 
-[![DandyPrime](https://img.shields.io/badge/LIVE-%F0%9F%9F%A2%20dandy--prime--tv02.vercel.app-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)](https://dandy-prime-tv02.vercel.app/)
+[![DandyPrime](https://img.shields.io/badge/LIVE-%F0%9F%9F%A2%20dandy--prime--tv02.vercel.app-1A1A2E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://dandy-prime-tv02.vercel.app/)
 
 </div>
 
@@ -82,34 +82,34 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1A1A2E?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1A2E?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1A2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1A1A2E?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-1A1A2E?style=for-the-badge&logo=html5&logoColor=E34F26)
+![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A2E?style=for-the-badge&amp;logo=next.js&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A2E?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A2E?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1A1A2E?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-1A1A2E?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26)
 
 **Mobile**
 
-![React Native](https://img.shields.io/badge/React_Native-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1A1A2E?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1A1A2E?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1A1A2E?style=for-the-badge&amp;logo=expo&amp;logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-1A1A2E?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express-1A1A2E?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-1A1A2E?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/PHP-1A1A2E?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-1A1A2E?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-1A1A2E?style=for-the-badge&amp;logo=node.js&amp;logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express-1A1A2E?style=for-the-badge&amp;logo=express&amp;logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-1A1A2E?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-1A1A2E?style=for-the-badge&amp;logo=php&amp;logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-1A1A2E?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB)
 
 **Databases & Tools**
 
-![MySQL](https://img.shields.io/badge/MySQL-1A1A2E?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1A2E?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Git](https://img.shields.io/badge/Git-1A1A2E?style=for-the-badge&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1A1A2E?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-1A1A2E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A2E?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A2E?style=for-the-badge&amp;logo=mongodb&amp;logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-1A1A2E?style=for-the-badge&amp;logo=git&amp;logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-1A1A2E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1A1A2E?style=for-the-badge&amp;logo=postman&amp;logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-1A1A2E?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=007ACC)
 
 </div>
 
