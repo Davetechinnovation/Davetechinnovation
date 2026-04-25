@@ -63,7 +63,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 ---
 
-## 🚀 All Projects
+## 🚀 Top Projects
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
@@ -72,7 +72,6 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 | 🚗 **Transport Dashboard** | Admin panel for rides, drivers, bookings & tracking | React, Node.js | [🔗 Repo](https://github.com/Danraph-Technologies/danraph-transport) |
 | 🤖 **WhatsApp Bot + Dashboard** | Automated bot with real-time admin control panel | Node.js, React | ✅ Live |
 | 🏗️ **RDR General Construction** | Professional client landing page — live & SEO optimised | Next.js, TypeScript, Tailwind | [🌐 Live](https://www.rdrgeneralconstruction.com/) |
-| 🎓 **Cartolink** | Responsive web app with dark/light theme — internship project | Next.js, TypeScript, Tailwind | [🔗 Repo](https://github.com/Davetechinnovation/Cartolink-internship) |
 
 ---
 
