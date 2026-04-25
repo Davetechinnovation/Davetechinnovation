@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:4A90D9,100:1A1A2E&height=200&section=header&text=Udoka%20Dandave%20%E2%80%94%20Dandy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:4A90D9,100:1A1A2E&amp;height=200&amp;section=header&amp;text=Udoka%20Dandave%20%E2%80%94%20Dandy&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&amp;descSize=18&amp;descAlignY=60&amp;animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=4A90D9&center=true&vCenter=true&width=700&lines=Building+products+people+actually+use.;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;React+Native+for+mobile+%F0%9F%93%B1;Turning+ideas+into+shipped+software.;Open+to+work+%E2%80%94+Let%27s+talk." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=4A90D9&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+products+people+actually+use.;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;React+Native+for+mobile+%F0%9F%93%B1;Turning+ideas+into+shipped+software.;Open+to+work+%E2%80%94+Let%27s+talk." alt="Typing SVG" />
 
 <br/>
 
@@ -63,7 +63,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 ---
 
-## 🚀 Top Projects 🌚
+## 🚀 All Projects
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
@@ -72,6 +72,8 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 | 🚗 **Transport Dashboard** | Admin panel for rides, drivers, bookings & tracking | React, Node.js | [🔗 Repo](https://github.com/Danraph-Technologies/danraph-transport) |
 | 🤖 **WhatsApp Bot + Dashboard** | Automated bot with real-time admin control panel | Node.js, React | ✅ Live |
 | 🏗️ **RDR General Construction** | Professional client landing page — live & SEO optimised | Next.js, TypeScript, Tailwind | [🌐 Live](https://www.rdrgeneralconstruction.com/) |
+| 🎓 **Cartolink** | Responsive web app with dark/light theme — internship project | Next.js, TypeScript, Tailwind | [🔗 Repo](https://github.com/Davetechinnovation/Cartolink-internship) |
+
 ---
 
 ## 🛠️ Tech Stack
@@ -117,12 +119,12 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davetechinnovation&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=4A90D9&icon_color=4A90D9&text_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davetechinnovation&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=4A90D9&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Davetechinnovation&amp;show_icons=true&amp;hide_border=true&amp;bg_color=1A1A2E&amp;title_color=4A90D9&amp;icon_color=4A90D9&amp;text_color=ffffff&amp;include_all_commits=true&amp;count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davetechinnovation&amp;layout=compact&amp;hide_border=true&amp;bg_color=1A1A2E&amp;title_color=4A90D9&amp;text_color=ffffff&amp;langs_count=8" height="165"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davetechinnovation&theme=tokyonight&hide_border=true&background=1A1A2E&stroke=4A90D9&ring=4A90D9&fire=FF6B6B&currStreakLabel=4A90D9&sideLabels=4A90D9)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Davetechinnovation&amp;theme=tokyonight&amp;hide_border=true&amp;background=1A1A2E&amp;stroke=4A90D9&amp;ring=4A90D9&amp;fire=FF6B6B&amp;currStreakLabel=4A90D9&amp;sideLabels=4A90D9" alt="GitHub Streak"/>
 
 </div>
 
@@ -136,8 +138,6 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 </div>
 
-> ⚠️ **To activate the snake:** Go to your repo → **Actions** tab → click **"I understand my workflows, go ahead and enable them"** → run the workflow manually once. It auto-updates after that every 24 hours.
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:4A90D9,100:1A1A2E&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:4A90D9,100:1A1A2E&amp;height=120&amp;section=footer&amp;text=Let%27s%20build%20something%20great&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn" width="100%"/>
