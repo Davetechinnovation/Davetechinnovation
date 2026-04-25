@@ -28,7 +28,7 @@ const dandy = {
   role:     ["Full Stack Developer", "Mobile Developer"],
   stack:    ["React", "Next.js", "Node.js", "Laravel", "React Native"],
   current:  "Building DandyPrime — a multi-category streaming platform",
-  openTo:   "Remote roles, freelance contracts & interesting collabs",
+  openTo:   "Remote roles, freelance contracts &amp; interesting collabs",
   contact:  "davetechinnovation@gmail.com",
 };
 ```
@@ -57,7 +57,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 | ⚽ Sports | Live sports streaming |
 | 🔍 Search | Cross-category search |
 | 📌 Watchlist | Save content for later |
-| ⚙️ Settings | User preferences & controls |
+| ⚙️ Settings | User preferences &amp; controls |
 
 **Stack:** `Next.js` `Python (Scraping)` `REST APIs` `Vercel`
 
@@ -68,10 +68,10 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
 | 🎬 **DandyPrime** | Full streaming platform — movies, Live TV, K-Dramas, sports, Nollywood | Next.js, Python | [🌐 Live](https://dandy-prime-tv02.vercel.app/) |
-| 💰 **Crypto Wallet App** | Mobile app to send, receive, store & invest crypto | React Native, Laravel | ✅ Live |
-| 🚗 **Transport Dashboard** | Admin panel for rides, drivers, bookings & tracking | React, Node.js | [🔗 Repo](https://github.com/Danraph-Technologies/danraph-transport) |
+| 💰 **Crypto Wallet App** | Mobile app to send, receive, store &amp; invest crypto | React Native, Laravel | ✅ Live |
+| 🚗 **Transport Dashboard** | Admin panel for rides, drivers, bookings &amp; tracking | React, Node.js | [🔗 Repo](https://github.com/Danraph-Technologies/danraph-transport) |
 | 🤖 **WhatsApp Bot + Dashboard** | Automated bot with real-time admin control panel | Node.js, React | ✅ Live |
-| 🏗️ **RDR General Construction** | Professional client landing page — live & SEO optimised | Next.js, TypeScript, Tailwind | [🌐 Live](https://www.rdrgeneralconstruction.com/) |
+| 🏗️ **RDR General Construction** | Professional client landing page — live &amp; SEO optimised | Next.js, TypeScript, Tailwind | [🌐 Live](https://www.rdrgeneralconstruction.com/) |
 | 🎓 **Cartolink** | Responsive web app with dark/light theme — internship project | Next.js, TypeScript, Tailwind | [🔗 Repo](https://github.com/Davetechinnovation/Cartolink-internship) |
 
 ---
@@ -102,7 +102,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 ![PHP](https://img.shields.io/badge/PHP-1A1A2E?style=for-the-badge&amp;logo=php&amp;logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-1A1A2E?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB)
 
-**Databases & Tools**
+**Databases &amp; Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-1A1A2E?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1A1A2E?style=for-the-badge&amp;logo=mongodb&amp;logoColor=47A248)
