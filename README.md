@@ -133,11 +133,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/examples/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/examples/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/examples/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Davetechinnovation&hide=stars&show=reviews,discussions_started,discussions_answered&theme=tokyonight&hide_border=true&bg_color=1A1A2E&text_color=ffffff&title_color=4A90D9" alt="Snake animation" width="100%" />
 
 </div>
 
