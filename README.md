@@ -11,7 +11,7 @@
 [![Twitter/X](https://img.shields.io/badge/%F0%9F%90%A6_X-@Davetechinnov-1A1A2E?style=for-the-badge)](https://x.com/Davetechinnov)
 [![Instagram](https://img.shields.io/badge/%F0%9F%93%B8_Instagram-@davetech__innovation-1A1A2E?style=for-the-badge)](https://www.instagram.com/davetech_innovation/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Davetechinnovation&color=4A90D9&style=flat-square&label=Profile+Views+since+2024)
+![Profile Views](https://komarev.com/ghpvc/?username=Davetechinnovation&color=4A90D9&style=flat-square&label=Profile+Views+since+2026)
 ![](https://img.shields.io/badge/Total%20Views-2.4K%2B-4A90D9?style=flat-square)
 
 </div>
