@@ -6,8 +6,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-dandys--portfolio.vercel.app-1A1A2E?style=for-the-badge&logoColor=white)](https://dandys-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-davetechinnovation%40gmail.com-1A1A2E?style=for-the-badge)](mailto:davetechinnovation@gmail.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-dandaveudoka.com.ng-1A1A2E?style=for-the-badge&logoColor=white)](https://dandaveudoka.com.ng)
+[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-hello%40dandaveudoka.com.ng-1A1A2E?style=for-the-badge)](mailto:hello@dandaveudoka.com.ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-udoka--dandave-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/udoka-dandave)
 [![Twitter/X](https://img.shields.io/badge/%F0%9F%90%A6_X-@Davetechinnov-1A1A2E?style=for-the-badge)](https://x.com/Davetechinnov)
 [![Instagram](https://img.shields.io/badge/%F0%9F%93%B8_Instagram-@davetech__innovation-1A1A2E?style=for-the-badge)](https://www.instagram.com/davetech_innovation/)
 
@@ -27,13 +28,13 @@ const dandy = {
   location: "Nigeria 🇳🇬",
   role:     ["Full Stack Developer", "Mobile Developer"],
   stack:    ["React", "Next.js", "Node.js", "Laravel", "React Native"],
-  current:  "Building DandyPrime — a multi-category streaming platform",
+  current:  "Growing Solvativ — my B2B automation SaaS",
   openTo:   "Remote roles, freelance contracts & interesting collabs",
-  contact:  "davetechinnovation@gmail.com",
+  contact:  "hello@dandaveudoka.com.ng",
 };
 ```
 
-I build products end-to-end — frontend, backend, mobile, and deployment. Three years in, I've shipped streaming platforms, crypto wallets, transport systems, and automation tools. I care about clean code, performance, and delivering real value.
+I build products end-to-end — frontend, backend, mobile, and deployment. Four years in, I've shipped streaming platforms, crypto wallets, transport systems, and automation tools. I care about clean code, performance, and delivering real value.
 
 ---
 
@@ -41,35 +42,32 @@ I build products end-to-end — frontend, backend, mobile, and deployment. Three
 
 <div align="center">
 
-### 🎬 DandyPrime — Stream Effortlessly
+### 🤖 Solvativ — Automate Every Conversation
 
-[![DandyPrime](https://img.shields.io/badge/LIVE-%F0%9F%9F%A2%20dandy--prime--tv02.vercel.app-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)](https://dandy-prime-tv02.vercel.app/)
+[![Solvativ](https://img.shields.io/badge/B2B_SaaS-Omni--channel_Automation-1A1A2E?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://dandaveudoka.com.ng/work)
 
 </div>
 
-A full-featured streaming platform built from scratch — movies, series, Live TV, K-Dramas, Sports, and Nollywood. Multi-category, multi-source content with a clean UI, search, watchlist, and settings.
+A B2B SaaS I founded that automates customer messaging across **WhatsApp, Instagram, Facebook, and TikTok** — cutting response times from hours to under 60 seconds. I own the full stack: architecture, API design, database schema, and deployment.
 
-| Feature | Details |
+| | |
 |--------|---------|
-| 🎬 Movies | Hollywood · Bollywood · Nollywood · Asian |
-| 📺 Live TV | Real-time live channel streaming |
-| 🌸 K-Dramas | Dedicated Korean drama section |
-| ⚽ Sports | Live sports streaming |
-| 🔍 Search | Cross-category search |
-| 📌 Watchlist | Save content for later |
-| ⚙️ Settings | User preferences & controls |
+| 📨 Multi-platform | WhatsApp · Instagram · Facebook · TikTok |
+| ⚡ Speed | Responses in under 60 seconds |
+| 🧠 Automation | Smart routing & auto-replies |
+| 🏗️ Ownership | Architecture → API → DB → deploy |
 
-**Stack:** `Next.js` `Python (Scraping)` `REST APIs` `Vercel`
+**Stack:** `Node.js` `React` `MongoDB` `REST APIs`
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Other Projects
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 🎬 **DandyPrime** | Full streaming platform — movies, Live TV, K-Dramas, sports, Nollywood | Next.js, Python | [🌐 Live](https://dandy-prime-tv02.vercel.app/) |
 | 💰 **Crypto Wallet App** | Mobile app to send, receive, store & invest crypto | React Native, Laravel | ✅ Live |
 | 🚗 **Transport Dashboard** | Admin panel for rides, drivers, bookings & tracking | React, Node.js | [🔗 Repo](https://github.com/Danraph-Technologies/danraph-transport) |
+| 🎬 **DandyPrime** | Streaming platform — movies, Live TV, K-Dramas, sports | Next.js, Python | [🌐 Live](https://dandy-prime-tv02.vercel.app/) |
 | 🤖 **WhatsApp Bot + Dashboard** | Automated bot with real-time admin control panel | Node.js, React | ✅ Live |
 | 🏗️ **RDR General Construction** | Professional client landing page — live & SEO optimised | Next.js, TypeScript, Tailwind | [🌐 Live](https://www.rdrgeneralconstruction.com/) |
 
@@ -133,7 +131,7 @@ A full-featured streaming platform built from scratch — movies, series, Live T
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/Davetechinnovation/Davetechinnovation/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Davetechinnovation/Davetechinnovation/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
 
 </div>
 

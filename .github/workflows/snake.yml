@@ -2,11 +2,16 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # lets you run it manually too
+    - cron: "17 3 * * *" # daily, off-peak to avoid GitHub's busiest time
+  workflow_dispatch: # allows manual runs from the Actions tab
   push:
     branches:
       - main
+
+# Required: lets the GITHUB_TOKEN push to the output branch
+# (newer repos default to a read-only token, which breaks the push step)
+permissions:
+  contents: write
 
 jobs:
   generate:
