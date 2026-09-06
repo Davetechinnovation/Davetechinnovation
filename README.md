@@ -116,8 +116,8 @@ A B2B SaaS I founded that automates customer messaging across **WhatsApp, Instag
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davetechinnovation&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=4A90D9&icon_color=4A90D9&text_color=ffffff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davetechinnovation&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=4A90D9&text_color=ffffff" />
+<img src="https://github-stats-extended1.vercel.app/api?username=Davetechinnovation&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=4A90D9&icon_color=4A90D9&text_color=ffffff" />
+<img src="https://github-stats-extended1.vercel.app/api/top-langs/?username=Davetechinnovation&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=4A90D9&text_color=ffffff" />
 
 <br/>
 
