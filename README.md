@@ -6,26 +6,26 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-dandaveudoka.com.ng-1A1A2E?style=for-the-badge&logoColor=white)](https://dandaveudoka.com.ng)
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-hello%40dandaveudoka.com.ng-1A1A2E?style=for-the-badge)](mailto:hello@dandaveudoka.com.ng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dandaveudoka.com.ng-1A1A2E?style=for-the-badge)](https://dandaveudoka.com.ng)
+[![Email](https://img.shields.io/badge/Email-hello%40dandaveudoka.com.ng-1A1A2E?style=for-the-badge)](mailto:hello@dandaveudoka.com.ng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-udoka--dandave-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/udoka-dandave)
-[![Twitter/X](https://img.shields.io/badge/%F0%9F%90%A6_X-@Davetechinnov-1A1A2E?style=for-the-badge)](https://x.com/Davetechinnov)
-[![Instagram](https://img.shields.io/badge/%F0%9F%93%B8_Instagram-@davetech__innovation-1A1A2E?style=for-the-badge)](https://www.instagram.com/davetech_innovation/)
+[![X](https://img.shields.io/badge/X-@Davetechinnov-1A1A2E?style=for-the-badge)](https://x.com/Davetechinnov)
+[![Instagram](https://img.shields.io/badge/Instagram-@davetech__innovation-1A1A2E?style=for-the-badge)](https://www.instagram.com/davetech_innovation/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Davetechinnovation&color=4A90D9&style=flat-square&label=Profile+Views+since+2026)
+![Profile Views](https://komarev.com/ghpvc/?username=Davetechinnovation&color=4A90D9&style=flat-square&label=Profile+Views)
 ![](https://img.shields.io/badge/Total%20Views-2.4K%2B-4A90D9?style=flat-square)
 
 </div>
 
 ---
 
-## 👋 Who I Am
+## Who I Am
 
 ```js
 const dandy = {
   name:     "Udoka Dandave Chibuzor",
   alias:    "Dandy",
-  location: "Nigeria 🇳🇬",
+  location: "Nigeria",
   role:     ["Full Stack Developer", "Mobile Developer"],
   stack:    ["React", "Next.js", "Node.js", "Laravel", "React Native"],
   current:  "Growing Solvativ — my B2B automation SaaS",
@@ -38,13 +38,13 @@ I build products end-to-end — frontend, backend, mobile, and deployment. Four 
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
 <div align="center">
 
-### 🤖 Solvativ — Automate Every Conversation
+### Solvativ — Automate Every Conversation
 
-[![Solvativ](https://img.shields.io/badge/B2B_SaaS-Omni--channel_Automation-1A1A2E?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://dandaveudoka.com.ng/work)
+[![Solvativ](https://img.shields.io/badge/B2B_SaaS-Omni--channel_Automation-1A1A2E?style=for-the-badge)](https://dandaveudoka.com.ng/work)
 
 </div>
 
@@ -52,28 +52,28 @@ A B2B SaaS I founded that automates customer messaging across **WhatsApp, Instag
 
 | | |
 |--------|---------|
-| 📨 Multi-platform | WhatsApp · Instagram · Facebook · TikTok |
-| ⚡ Speed | Responses in under 60 seconds |
-| 🧠 Automation | Smart routing & auto-replies |
-| 🏗️ Ownership | Architecture → API → DB → deploy |
+| Multi-platform | WhatsApp · Instagram · Facebook · TikTok |
+| Speed | Responses in under 60 seconds |
+| Automation | Smart routing & auto-replies |
+| Ownership | Architecture → API → DB → deploy |
 
 **Stack:** `Node.js` `React` `MongoDB` `REST APIs`
 
 ---
 
-## 🚀 Other Projects
+## Other Projects
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 💰 **Crypto Wallet App** | Mobile app to send, receive, store & invest crypto | React Native, Laravel | ✅ Live |
-| 🚗 **Transport Dashboard** | Admin panel for rides, drivers, bookings & tracking | React, Node.js | [🔗 Repo](https://github.com/Danraph-Technologies/danraph-transport) |
-| 🎬 **DandyPrime** | Streaming platform — movies, Live TV, K-Dramas, sports | Next.js, Python | [🌐 Live](https://dandy-prime-tv02.vercel.app/) |
-| 🤖 **WhatsApp Bot + Dashboard** | Automated bot with real-time admin control panel | Node.js, React | ✅ Live |
-| 🏗️ **RDR General Construction** | Professional client landing page — live & SEO optimised | Next.js, TypeScript, Tailwind | [🌐 Live](https://www.rdrgeneralconstruction.com/) |
+| **Crypto Wallet App** | Mobile app to send, receive, store & invest crypto | React Native, Laravel | Live |
+| **Transport Dashboard** | Admin panel for rides, drivers, bookings & tracking | React, Node.js | [Repo](https://github.com/Danraph-Technologies/danraph-transport) |
+| **DandyPrime** | Streaming platform — movies, Live TV, K-Dramas, sports | Next.js, Python | [Live](https://dandy-prime-tv02.vercel.app/) |
+| **WhatsApp Bot + Dashboard** | Automated bot with real-time admin control panel | Node.js, React | Live |
+| **RDR General Construction** | Professional client landing page — live & SEO optimised | Next.js, TypeScript, Tailwind | [Live](https://www.rdrgeneralconstruction.com/) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -112,7 +112,7 @@ A B2B SaaS I founded that automates customer messaging across **WhatsApp, Instag
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -127,7 +127,7 @@ A B2B SaaS I founded that automates customer messaging across **WhatsApp, Instag
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
