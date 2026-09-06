@@ -23,8 +23,8 @@
 
 ```js
 const dandy = {
-  name:     "Udoka Dandave Chibuzor",
-  alias:    "Dandy",
+  name:     "Udoka Dandave Chibuzor", // "Dandave" = Daniel David
+  alias:    "Dandy",                  // also answers to Daniel Udoka / David Udoka
   location: "Nigeria",
   role:     ["Full Stack Developer", "Mobile Developer"],
   stack:    ["React", "Next.js", "Node.js", "Laravel", "React Native"],
